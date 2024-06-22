@@ -24,13 +24,13 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/Avadhut20/Roxciler_systems.git
    cd Roxciler_systems
-  ```
+  
 
 2. **Install dependencies:**
     ```bash
     npm install
 
-    ```
+    
 3. **Setup MongoDb:**
 Ensure MongoDB is installed and running locally or provide a MongoDB Atlas URI in index.js.
 
@@ -39,7 +39,7 @@ Ensure MongoDB is installed and running locally or provide a MongoDB Atlas URI i
     cd client
     npm install
     npm start
-    ```
+    
 5. **Access the application:**
 Open your browser and go to http://localhost:3000 to view the application.    
 
