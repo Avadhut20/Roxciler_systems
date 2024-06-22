@@ -48,5 +48,5 @@ Open your browser and go to http://localhost:3000 to view the application.
 1. **GET /transactions:** Retrieves transactions based on specified filters.
 2. **GET /transaction-statistics:** Retrieves statistics for transactions.
 3. **GET /bar-chart-data:** Retrieves data for generating a bar chart.
-4. **GET /pie-chart-data:**Retrieves data for generating a pie chart.
+4. **GET /pie-chart-data:** Retrieves data for generating a pie chart.
 5. **GET /combined-data:** Retrieves combined data including transactions, statistics, bar chart data, and pie chart data.
